@@ -7,7 +7,7 @@ export const reducer = (state = initialState, action) => {
     case GET_STATES:
       return { ...state, ...{ states: action.payload } };
     case GET_CITIES:
-      return { ...state, ...{ cities: action.payload } };
+      return { ...state, ...{ cities: action.payload, city: null } };
     case SET_CITY:
       return { ...state, ...{ city: action.payload } };
     default:
