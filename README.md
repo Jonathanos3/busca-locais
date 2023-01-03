@@ -15,7 +15,7 @@
 
  ### Pré-requisitos
  
- Antes de começar, você deve precisar ter instalado na sua maquina as seguintes ferramentas React, React-redux, Redux/thunk, @Reduxjs/toolkit, Axios.
+ Antes de começar, você precisar ter instalado na sua maquina as seguintes ferramentas React, React-redux, Redux/thunk, @Reduxjs/toolkit, Axios.
  
   ``` bash
  # clonar repositório
